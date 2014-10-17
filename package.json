@@ -1,0 +1,34 @@
+{
+  "name": "threejs-checkerroom",
+  "version": "1.0.0",
+  "description": "A convenient room object meant for testing purposes. Great for reflection testing.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {
+    "threejs-texture-checkerboard": "^1.0.0"
+  },
+  "devDependencies": {
+    "threejs-managed-view": "^1.0.4"
+  },
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "keywords": [
+    "threejs",
+    "room",
+    "checkerboard"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/threejs-checkerroom.git"
+  },
+  "homepage": "https://github.com/bunnybones1/threejs-checkerroom",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/threejs-checkerroom/issues"
+  }
+}
